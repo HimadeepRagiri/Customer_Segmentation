@@ -28,7 +28,7 @@ You can install these libraries using pip:
 7. **Visualizing Clusters**: Plot the clusters and centroids on a scatter plot.
 
 ## Usage
-1. Clone this repository: https://github.com/HimadeepRagiri/ML-and-DL-Projects.git
+1. Clone this repository: https://github.com/HimadeepRagiri/Customer_Segmentation.git
 2. Install required libraries:
 3. Run the script: `Customer_Segmentation.ipynb`
 
